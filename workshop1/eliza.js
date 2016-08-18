@@ -96,6 +96,7 @@ var rules = {
   "~*x my mother ~*y": [
     "Who else in your family ~y?",
     "Tell me more about your family",
+    "TRUMP 2016"
   ],
   "~*x my father ~*y": [
     "Your father?",
